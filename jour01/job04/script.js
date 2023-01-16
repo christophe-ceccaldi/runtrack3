@@ -1,4 +1,4 @@
-function bisextile(annee){
+function bissextile(annee){
     if (annee % 4  == 0 && annee % 100 != 0){
         console.log(annee)
     } else{
@@ -9,4 +9,4 @@ function bisextile(annee){
 
 
 
-bisextile(2005);
+bissextile(2005);
