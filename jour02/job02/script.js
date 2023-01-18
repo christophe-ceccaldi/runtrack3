@@ -1,7 +1,3 @@
-/*document.addEventListener("DOMcontentloading", function showhide(){
-    let text = 
-
-});*/
 function showhide(){
     if(document.getElementById("text").innerHTML){
   
